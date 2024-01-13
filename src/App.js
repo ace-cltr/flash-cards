@@ -36,8 +36,8 @@ const questions = [
   {
     id: 9103,
     question:
-      "Find grammer-error : Daniel sat on / his new bike / and went afar / a ride?",
-    answer: "and went afar",
+      "Find grammer-error : Daniel sat on / his new bike / and went after / a ride?",
+    answer: "and went after",
   },
   {
     id: 2002,
